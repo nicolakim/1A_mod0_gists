@@ -1,2 +1,2 @@
-# 1A_mod0_gists
-back up archive of 1A gists
+# Mod 0 (1A homework gists)  
+A back up archive of Mod 0 (1A) gists
