@@ -72,7 +72,7 @@ Using [this markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Ma
 - at least one inline code block (greyed text)
 - at least one image
 
-- [ ] Paste the link to your gist here: [Nic Kim's gist link](https://gist.github.com/nicolakim/54d180e7049b1e1bbe98dd0bc81cbaee)
+- [ ] Paste the link to your gist here: [Nic Kim's gist link](https://github.com/nicolakim/1A_mod0_gists/blob/master/Beginners-Guide-to-Data-Types.md)
 
 ### 4. Questions/Comments/Confusions
 
